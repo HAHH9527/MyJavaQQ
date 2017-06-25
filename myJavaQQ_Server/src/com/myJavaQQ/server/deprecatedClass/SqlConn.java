@@ -13,10 +13,10 @@ import java.sql.Statement;
 
 @Deprecated
 public class SqlConn {
-	private static final String url = "jdbc:mysql://172.104.74.239/MyJavaQQ_DB";
+	private static final String url = "jdbc:mysql://127.0.0.1/MyJavaQQ_DB";
 	private static final String name = "com.mysql.jdbc.Driver";
 	private static final String user = "root";
-	private static final String password = "huangmingjue2333";
+	private static final String password = "root";
 	private static Connection conn;
 
 	private static PreparedStatement ps;
