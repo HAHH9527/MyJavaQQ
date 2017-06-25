@@ -14,6 +14,10 @@
   Java 1.8.0_131<br>
   MySQL 5.6.36<br>
 
+## 需要自行修改IP的类
+	com.myJavaQQ.client.view下的QQLogin
+	com.myJavaQQ.server.dao.impl下的BaseDao
+
 ## 实现功能
 
 ### 客户端
