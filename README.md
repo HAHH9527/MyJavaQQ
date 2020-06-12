@@ -63,6 +63,13 @@
 		com.myJavaQQ.server.tools下的ManageServerConClientThread类用HashMap储存服务端与多个用户通讯的ServerConClientThread类
 		com.myJavaQQ.server.dao储存数据库操作接口
 		com.myJavaQQ.server.dao.impl储存数据库操作实现功能
+		
+  -------
+
+### 遗留问题
+        注册有问题
+	
+  -------
 
 ## 结语
   这只是一个学生党花了一个半星期完成的项目，<br>
